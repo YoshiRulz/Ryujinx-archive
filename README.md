@@ -1,3 +1,8 @@
+The Ryujinx repo was deleted at the start of October 2024.
+This is an archived copy from early 2023 (specifically of [the trunk](https://github.com/YoshiRulz/Ryujinx-archive/tree/trunk-20230328)).
+Development will not continue in this repo.
+
+---
 
 <h1 align="center">
   <br>
